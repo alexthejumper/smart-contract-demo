@@ -43,6 +43,19 @@
 			},
 			{
 				"inputs": [],
+				"name": "get_description",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "increment_counter",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -77,11 +90,11 @@
 	},
 	"sources": {
 		"counter.sol": {
-			"keccak256": "0x7fa9b091f6fe3e07992d3fa6a6ab23bbdd90b761cf8d43583a49a69622d5a86e",
+			"keccak256": "0xd3f795508d72ff5e7acba446384ad679651cdf8979df7fd15cc0c5d583daa2e9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1959a1a885fbc9ce46f732bda011b79319dd3e8ed7817bd7b7b85c566fa9ca5f",
-				"dweb:/ipfs/QmTDH8tZWD2CGKrBP4WNaWdaaejFUE5oazv847CFNWnYHo"
+				"bzz-raw://1421ba609f1eadede54edaea05c2bd4900b87ae1513b115c9c3982d69a98c3ad",
+				"dweb:/ipfs/QmVMZmH9Cp3NvoFZvqjN9db69Lf1SPwsggAq97LBDVDDLP"
 			]
 		}
 	},
